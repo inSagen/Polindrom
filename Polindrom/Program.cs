@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hello, World!");
 
-int data = 543345;
+int data = 121;
 int data2 = data;
 int b = 0;
 while (b < data)
