@@ -15,4 +15,4 @@ while (b < data)
         return;
     }
 }
-Console.WriteLine($"{data} - не полиндромное число");
+Console.WriteLine($"{data} - не полиндромное число ");
